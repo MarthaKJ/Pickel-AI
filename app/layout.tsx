@@ -9,7 +9,7 @@ import "./globals.css"
 export const metadata: Metadata = {
   title: "FraudGuard AI - Mobile Money Fraud Detection",
   description: "AI-powered fraud detection system for mobile money transactions in Uganda",
-  generator: "v0.app",
+  generator: "v0.app" ,
 }
 
 export default function RootLayout({
